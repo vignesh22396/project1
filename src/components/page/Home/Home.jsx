@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <>
     <div className='home-section'>
-    <ul class="circles">
+    <ul className="circles">
         <li></li>
         <li></li>
         <li></li>
