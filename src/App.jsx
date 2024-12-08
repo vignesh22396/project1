@@ -22,9 +22,10 @@ function App() {
     <> 
       <div id={load ? "preloader" : "preloader_none"}></div>
         <Nave />
-        <Routes>
+        <Home/>
+        {/* <Routes>
           <Route path='/' element={<Home/>} />
-        </Routes>
+        </Routes> */}
         <Footer />
       
     </>
